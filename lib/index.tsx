@@ -1,3 +1,4 @@
-const div = document.createElement('div')
-div.innerText = '你好'
-document.body.appendChild(div)
+import * as React from 'react';
+import ReactDom from 'react-dom'
+
+console.log(React)
